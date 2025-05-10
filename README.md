@@ -1,5 +1,5 @@
 # base-css
-Base css style for any of my projects, sass used.
+Base css style for any project, sass used.
 
 Also, config with basic settings added.
 
